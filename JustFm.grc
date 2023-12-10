@@ -92,7 +92,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: C:\Users\alkin\Desktop\FM\Music\Heute Nacht.wav
+    file: 
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
