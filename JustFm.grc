@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: alkin
+    author: A
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
