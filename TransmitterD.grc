@@ -92,7 +92,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: C:\Users\alkin\Desktop\FM\Music\XTC - The Chemical Brothers Remix.wav
+    file: 
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
